@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">IntentImageSample</string>
+
+    <string name="send_image">이미지 전송</string>
+
+</resources>
